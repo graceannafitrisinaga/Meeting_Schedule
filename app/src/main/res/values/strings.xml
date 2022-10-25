@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Meeting Schedule</string>
+    <string name="date">Date</string>
+    <string name="date_req">Date<font color='#FF0000'>*</font></string>
+    <string name="meet_req">Meeting Name <font color='#FF0000'>*</font></string>
+    <string name="save_action">Save</string>
+    <string name="item_detail_fragment_title">Item Details</string>
+    <string name="add_fragment_title">Add Schedule</string>
+    <string name="edit_fragment_title">Edit Schedule</string>
+    <string name="label_date">DATE</string>
+    <string name="meet">Meeting Name</string>
+    <string name="delete">Delete</string>
+    <string name="delete_question">Are you sure you want to delete?</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="edit_schedule">Edit Schedule</string>
+    <string name="add_schedule">Add Schedule</string>
+</resources>
